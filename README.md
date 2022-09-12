@@ -1,9 +1,9 @@
 <img alt="Ignite" src="https://i.imgur.com/eCVyxxy.png">
 <h2 align="center">
-  Ignite - Trilha ReactJS
+  Ignite - Trilha React Native
 </h2>
 <p align="center">
-Repositório para listar meus repositórios de aulas, desafios e projetos feitos no Ignite - Trilha ReactJS.
+Repositório para listar meus repositórios de aulas, desafios e projetos feitos no Ignite - Trilha React Native.
 </p>
 
 ### Módulos
