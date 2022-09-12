@@ -8,7 +8,7 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 
 ### Módulos
 
-- [Módulo 01 - Fundamentos React Native](https://github.com/matheuslanduci/aula01-trilha-react)
+- [Módulo 01 - Fundamentos React Native](https://github.com/brunoluran/trilha-react-native-modulo01)
 - [Módulo 02 - 02. Expo e Styled Components]
 - [Módulo 03 - Formulários e Navegação]
 - [Módulo 04 - Async Storage]
